@@ -80,7 +80,7 @@ xcode-select --install
 
 ```bash
 # Clone repository
-git clone https://github.com/blacknurse/blacknurse.git
+git clone https://github.com/yigitnosql/blacknurse.git
 cd blacknurse
 
 # Create build directory
